@@ -1,0 +1,17 @@
+{
+  "id" : "9b5d20e5-1b0c-4cf4-a58a-d8bd24c34e07",
+  "request" : {
+    "url" : "/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{ \"hello\": \"vaibhav\" }",
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "9b5d20e5-1b0c-4cf4-a58a-d8bd24c34e07",
+  "persistent" : true,
+  "insertionIndex" : 1
+}
