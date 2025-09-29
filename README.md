@@ -7,6 +7,11 @@ A lightweight API mocking utility that embeds a WireMock server and a small Java
 - Create, update, delete, list stubs, persist them to files, or reset in-memory state
 
 
+<img width="1710" height="481" alt="Screenshot 2025-09-30 at 12 07 53 AM" src="https://github.com/user-attachments/assets/4b392206-1ad0-47a3-9401-693a654a50b0" />
+
+<img width="1710" height="700" alt="Screenshot 2025-09-30 at 12 07 58 AM" src="https://github.com/user-attachments/assets/8168d03d-cc51-421e-bfe8-f202c9506ea6" />
+
+
 ## Quick start
 
 Prerequisites:
